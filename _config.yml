@@ -40,8 +40,6 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/SecOvfShanks # change to your twitter homepage
     - https://github.com/nimishdudhe01 # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
     - https://www.linkedin.com/in/nimishdudhe
 
 google_site_verification: # fill in to your verification string
@@ -109,7 +107,7 @@ assets:
     enabled: # boolean, keep empty means false
     # specify the Jekyll environment, empty means both
     # only works if `assets.self_host.enabled` is 'true'
-    env: # [development|production]
+    env: development
 
 pwa:
   enabled: true # the option for PWA feature
