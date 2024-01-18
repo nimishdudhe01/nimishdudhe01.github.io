@@ -21,5 +21,10 @@ Thank you for joining me on this exciting expedition into the heart of technolog
 
 Let the adventure begin!
 
-*Nimish Dudhe*  
-*https://nimishdudhe01.github.io*
+*Nimish Dudhe*
+
+Let's Connect:
+[Linkedin](https://www.linkedin.com/in/nimishdudhe)  
+[Twitter](https://www.twitter.com/SecOvfShanks)
+[TryHackMe](https://www.tryhackme.com/p/SecOvfShanks)  
+[GitHub](https://www.github.com/nimishdudhe01)  
