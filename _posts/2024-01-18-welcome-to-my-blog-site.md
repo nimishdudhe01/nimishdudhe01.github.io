@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to My Blog Site!"
 date:   2024-01-18 15:33:04 +0530
 categories: welcome
+weight: 10
 ---
 
 # Welcome to My Tech Odyssey! 🚀
@@ -24,7 +25,4 @@ Let the adventure begin!
 *Nimish Dudhe*
 
 Let's Connect:
-[Linkedin](https://www.linkedin.com/in/nimishdudhe)  
-[Twitter](https://www.twitter.com/SecOvfShanks)
-[TryHackMe](https://www.tryhackme.com/p/SecOvfShanks)  
-[GitHub](https://www.github.com/nimishdudhe01)  
+[Linkedin](https://www.linkedin.com/in/nimishdudhe) | [Twitter](https://www.twitter.com/SecOvfShanks) | [TryHackMe](https://www.tryhackme.com/p/SecOvfShanks) | [GitHub](https://www.github.com/nimishdudhe01)

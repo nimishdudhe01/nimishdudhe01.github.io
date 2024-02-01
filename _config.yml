@@ -9,14 +9,14 @@ theme: jekyll-theme-chirpy
 lang: en
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
-timezone:
+timezone: Asia/Calcutta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Nimish Dudhe # the main title
+title: Nimish Dudhe 
 
-tagline: NULL X OWASP Speaker | A Cyber-Security Enthusiast | Blog Writer | Final Year CSE Student  # it will display as the sub-title
+tagline: NULL X OWASP Speaker | A Cyber-Security Enthusiast | Blog Writer | Final Year CSE Student 
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -62,7 +62,7 @@ google_analytics:
 #     dark   - Use the dark color scheme
 #
 
-theme_mode: light # [light|dark]
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
